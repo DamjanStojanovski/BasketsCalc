@@ -1,0 +1,11 @@
+D:\BasketsCalculator\BasketsCalc\bin\Debug\netcoreapp3.1\BasketsCalc.exe
+D:\BasketsCalculator\BasketsCalc\bin\Debug\netcoreapp3.1\BasketsCalc.deps.json
+D:\BasketsCalculator\BasketsCalc\bin\Debug\netcoreapp3.1\BasketsCalc.runtimeconfig.json
+D:\BasketsCalculator\BasketsCalc\bin\Debug\netcoreapp3.1\BasketsCalc.runtimeconfig.dev.json
+D:\BasketsCalculator\BasketsCalc\bin\Debug\netcoreapp3.1\BasketsCalc.dll
+D:\BasketsCalculator\BasketsCalc\bin\Debug\netcoreapp3.1\BasketsCalc.pdb
+D:\BasketsCalculator\BasketsCalc\obj\Debug\netcoreapp3.1\BasketsCalc.csprojAssemblyReference.cache
+D:\BasketsCalculator\BasketsCalc\obj\Debug\netcoreapp3.1\BasketsCalc.AssemblyInfoInputs.cache
+D:\BasketsCalculator\BasketsCalc\obj\Debug\netcoreapp3.1\BasketsCalc.AssemblyInfo.cs
+D:\BasketsCalculator\BasketsCalc\obj\Debug\netcoreapp3.1\BasketsCalc.dll
+D:\BasketsCalculator\BasketsCalc\obj\Debug\netcoreapp3.1\BasketsCalc.pdb
